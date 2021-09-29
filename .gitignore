@@ -1,4 +1,3 @@
 htmlcov
-__pycache__/
 .coverage
 nohup.out
