@@ -1,2 +1,2 @@
-class NewClass(object):
+class NewClass:
     pass
